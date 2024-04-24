@@ -11,3 +11,5 @@ Vision Mamba introduces a novel Conv-SSM module that combines the local feature 
 
 To demonstrate the effectiveness of Vision Mamba, we conduct extensive experiments using the CIFAR-10 dataset, which consists of normal images from various classes. We compare the performance of Vision Mamba with traditional CNNs and find that it achieves superior results while maintaining linear computational complexity.
 
+![image](https://github.com/teRarity/Mambacclassifier/assets/123636828/170deee5-e144-47d3-b49d-3c5c5c3e8015)
+
