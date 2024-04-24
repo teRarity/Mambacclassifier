@@ -2,8 +2,7 @@
 
 1. Here you will find full code of implementation of Mambacclassifier
 
-!Image picturewithschema
-
+!Mambacclassifier Image
 ## Abstract
 
 Image classification is a fundamental task in computer vision, and Convolutional Neural Networks (CNNs) have been widely used for this purpose. However, CNNs often struggle with capturing long-range dependencies and have quadratic computational complexity. Inspired by the recent success of the state space model (SSM) represented by Mamba, we propose a simplified version named "Vision Mamba" for classifying normal images like CIFAR-10.
