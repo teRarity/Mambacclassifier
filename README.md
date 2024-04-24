@@ -2,7 +2,7 @@
 
 1. Here you will find full code of implementation of Mambacclassifier
 
-!image
+!image(https://github.com/teRarity/Mambacclassifier/assets/123636828/717bf5e2-570e-4a30-a0a3-91bac200df0e)
 
 ## Abstract
 
